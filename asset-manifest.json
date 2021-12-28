@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pizza-maker/static/css/main.e6c13ad2.css",
-    "main.js": "/pizza-maker/static/js/main.b20ca13d.js",
+    "main.js": "/pizza-maker/static/js/main.f162348b.js",
     "static/js/787.e102ca77.chunk.js": "/pizza-maker/static/js/787.e102ca77.chunk.js",
     "index.html": "/pizza-maker/index.html",
     "main.e6c13ad2.css.map": "/pizza-maker/static/css/main.e6c13ad2.css.map",
-    "main.b20ca13d.js.map": "/pizza-maker/static/js/main.b20ca13d.js.map",
+    "main.f162348b.js.map": "/pizza-maker/static/js/main.f162348b.js.map",
     "787.e102ca77.chunk.js.map": "/pizza-maker/static/js/787.e102ca77.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b20ca13d.js"
+    "static/js/main.f162348b.js"
   ]
 }
